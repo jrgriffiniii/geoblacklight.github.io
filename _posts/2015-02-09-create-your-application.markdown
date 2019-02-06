@@ -65,7 +65,6 @@ Now you should have Rails installed on your machine and are ready to proceed.
   1. *Optional* Initialize your git repository and commit your changes
 
      ```sh
-     $ git init
      $ git add .
      $ git commit -m 'initial commit of Rails application'
      ```
